@@ -57,5 +57,3 @@ Screenshot
 Technologies Used
 React: For building the user interface.
 Tailwind CSS: For styling the components.
-License
-This project is open-source and available under the MIT License.
